@@ -13,8 +13,8 @@ class _Questionnaire1State extends State<Questionnaire1> {
   late int selectedYear;
   late int currentYear;
   double selectednumber = 1.25;
-  int usehour = 5;
-  int position = 2;
+  int usehour = 1;
+  int position = 0;
   String gender = "";
   final TextEditingController year1 = TextEditingController();
   final TextEditingController year2 = TextEditingController();
